@@ -35,10 +35,10 @@ import androidx.fragment.app.FragmentTransaction;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import androidx.viewpager.widget.ViewPager;
 
-import com.google.android.material.appbar.AppBarLayout;
-import com.google.android.material.snackbar.Snackbar;
-import com.google.android.material.tabs.TabLayout;
-import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material3.appbar.AppBarLayout;
+import com.google.android.material3.snackbar.Snackbar;
+import com.google.android.material3.tabs.TabLayout;
+import com.google.android.material3.textfield.TextInputLayout;
 
 import org.json.JSONArray;
 import org.json.JSONException;
